@@ -33,6 +33,8 @@ Solution to assignments of :--
  16.PHY 112: Principles of Physics II
  
  17.STA201: Elements of Statistics and Probability
+
+ 18.HUM103: Ethics and Culture
  
 
                                                  
