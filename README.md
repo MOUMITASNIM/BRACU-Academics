@@ -35,6 +35,10 @@ Solution to assignments of :--
  17.STA201: Elements of Statistics and Probability
 
  18.HUM103: Ethics and Culture
+
+ 19.ENG102: English Compositon I
+
+ 20.ENG101: ENGLISH FUNDAMENTALS
  
 
                                                  
