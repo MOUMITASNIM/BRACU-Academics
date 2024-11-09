@@ -25,7 +25,7 @@ Solution to assignments of :--
  12.ENV 103: Elements of Environmental Sciences
  
  13.MAT110 : MATHEMATICS I: DIFFERENTIAL CALCULUS & COORDINATE GEOMETRY
- 
+
  14.MAT120 : Mathematics II: Integral Calculus & Differential Equations
  
  15.MAT 216: MATH IV:  Linear Algebra and Fourier Analysis
@@ -39,6 +39,8 @@ Solution to assignments of :--
  19.ENG102: English Compositon I
 
  20.ENG101: ENGLISH FUNDAMENTALS
+
+ 21.CSE370 : Database Systems
  
 
                                                  
