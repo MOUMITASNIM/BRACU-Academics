@@ -1,4 +1,4 @@
-Solution to assignments of :--
+Solution to assignments and  classnotes of :--
 
  1.BI0 101: Introduction to Biology
 
@@ -41,6 +41,12 @@ Solution to assignments of :--
  20.ENG101: ENGLISH FUNDAMENTALS
 
  21.CSE370 : Database Systems
+ 
+22.CSE320  : Data Communications
+
+23.CSE331  : Automata and Computability
+
+24.MAT215  : Complex Variables and Laplace Transformations
  
 
                                                  
