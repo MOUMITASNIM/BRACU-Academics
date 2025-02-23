@@ -47,6 +47,8 @@ Solution to assignments and  classnotes of :--
 23.CSE331  : Automata and Computability
 
 24.MAT215  : Complex Variables and Laplace Transformations
+
+25.CSE330  : Numerical Methods
  
 
                                                  
