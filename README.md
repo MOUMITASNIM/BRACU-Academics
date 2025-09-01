@@ -49,7 +49,14 @@ Solution to assignments and  classnotes of :--
 24.MAT215  : Complex Variables and Laplace Transformations
 
 25.CSE330  : Numerical Methods
- 
+
+26.CSE470  : Software Engineering
+
+27.CSE471  : System Analysis and Design
+
+28.CSE423  : Computer Graphics
+
+29.PSY101  : Introduction to Psychology
 
                                                  
                                                   (.....to be continued....)
