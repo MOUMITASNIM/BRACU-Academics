@@ -1,5 +1,5 @@
 ## 🚀 Start Here
-[![📂 CSE Course Materials Directory](https://img.shields.io/badge/Open-CSE%20Course%20Materials%20Directory-blue)](./CSE%20Course%20Materials%20Directory)
+📌[![📂 CSE Course Materials Directory](https://img.shields.io/badge/Open-CSE%20Course%20Materials%20Directory-blue)](./CSE%20Course%20Materials%20Directory)
 
 Solution to assignments and  classnotes of :--
 
